@@ -2,7 +2,7 @@ package hierarchical;
 
 public class Lab172_Hierarchical {
     public static void main(String[] args) {
-        Pramod p1 = new Pramod;
+        Pramod p1 = new Pramod();
         p1.h2();
         p1.home();
 
